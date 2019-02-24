@@ -1,0 +1,21 @@
+h1 {
+  color: purple;
+  font-family: impact;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2 {
+  color: #00FFFF;
+  font-family: impact;
+  text-align: center;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+li {
+  font-family: impact;
+}
