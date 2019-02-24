@@ -21,6 +21,7 @@ _Any questions, concerns or ideas please email me at pjknitts@yahoo.com_
 ## Technologies Used
 
 _HTML_
+_css_
 
 ### License
 
